@@ -3,7 +3,7 @@
 // =====================================
 
 const API_URL =
-"http://localhost:5000/api/weather";
+"https://task-7-advanced-api-integration.onrender.com/api/weather";
 
 
 
